@@ -7,7 +7,7 @@ Consumo de API
 Componentes
 Rotas
 
-💻 Projeto Esse projeto foi desenvolvido para um teste para vaga de emprego:
+💻 Projeto Esse projeto foi construído para meus estudos
 
 Como utilizar?
 
